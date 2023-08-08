@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TAKI-KARTHIK
 -  A passionate developer from India
 - 🌱 I’m currently learning **javascript**
-- 📫 How to reach me **Taki.karthikiyer@hotmail.com**
+- 📫 How to reach me **Contact@karthikr**
 
 <!---
 TAKI-KARTHIK/TAKI-KARTHIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
