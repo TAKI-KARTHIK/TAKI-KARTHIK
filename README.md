@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning
 - 💬 Ask me about Cyber Security, Ethical Hacking, Programming
 - 📄 Know more about me at https://karthikr.wtf
-- 📫 How to reach me: [contact@karthikr.tech](mailto:contac@karthikr.tech)
+- 📫 How to reach me: [contact@karthikr.tech](mailto:contact@karthikr.tech)
 <!---
 TAKI-KARTHIK/TAKI-KARTHIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
