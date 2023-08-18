@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KARTHIK</h1>
 <h3 align="center">Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. As a self-taught developer, web designer, open source cyber enthusiast, I constantly push the boundaries of what's possible in the tech industry.</h3>
-<img align="right" alt="coding" width="400" src="[image](https://github.com/TAKI-KARTHIK/TAKI-KARTHIK/assets/127835057/c470a9c1-ec7f-456f-bca1-7cc292db0977)"/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **javascript and Python**
 
