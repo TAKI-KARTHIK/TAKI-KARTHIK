@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **contact@karthikr.tech**
 
-- 📄 Know about my experiences [https://karthikr.wtf](https://karthikr.wtf)
+- 📄 Know about my experiences [https://karthikr.wtf](https://karthikr.wtf),  [https://karthikr.tech](https://karthikr.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
