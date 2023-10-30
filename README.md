@@ -5,7 +5,7 @@
 
 <h4 align="center">
   
-  🌱 I’m currently learning **javascript and Python**
+   I’m currently learning **javascript and Python**
   
   - 💬 Ask me about **Cyber Security, Ethical Hacking, Programming**
   
