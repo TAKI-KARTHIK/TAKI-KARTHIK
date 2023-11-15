@@ -1,4 +1,4 @@
-[![KARTHIK](https://github-production-user-asset-6210df.s3.amazonaws.com/68139513/237881618-7582da0c-f3a0-4d4f-afac-a7801e5596f0.jpg)](https://karthikr.wtf)
+[![KARTHIK]](https://karthikr.wtf)
 <h1 style="color: #44AEFB;">Hi I'm  👨🏻‍💻 KARTHIK R </h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
