@@ -8,3 +8,6 @@
 - 💬 Ask me about Cyber Security, Programming 
 - 📄 Know more about me at [karthikr.wtf](https://karthikr.wtf)
 - 📫 How to reach me: [karthikiyer1123@gmail.com](mailto:karthikiyer1123@gmail.com)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karthxk_z_/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)](https://discord.com/invite/ChmYRUHGjC) 
