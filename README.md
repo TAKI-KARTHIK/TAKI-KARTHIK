@@ -13,3 +13,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karthxk_z_/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)](https://discord.com/invite/ChmYRUHGjC) 
+
+## 🔗 Links
+- Visit my website at [karthikr.wtf](https://karthikr.wtf)
+- Connect with me on [Instagram](https://www.instagram.com/karthxk_z_/)
+- Check out my projects on [GitHub](https://github.com/TAKI-KARTHIK)
