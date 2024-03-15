@@ -3,6 +3,8 @@
 <h1 style="color: #44AEFB;">Hi I'm KARTHIK R </h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <br>
+
+
 ## 👨🏻‍💻 About Me
 - Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. I am a self-taught developer
 - Co-founder@ https://trogencoders.com
