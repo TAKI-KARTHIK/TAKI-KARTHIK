@@ -3,7 +3,7 @@
 <h1 style="color: #44AEFB;">Hi I'm  👨🏻‍💻 KARTHIK R </h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-#About Me
+## About Me
 - 👨🏻‍💻  Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. I am a self-taught developer
 - Co-founder@ https://trogencoders.com
 - 👯 I’m looking to collaborate on new projects
@@ -16,6 +16,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karthxk_z_/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)](https://discord.com/invite/ChmYRUHGjC) 
 
 ## 🔗 Links
-- Visit my website at [karthikr.wtf](https://karthikr.wtf)
-- Connect with me on [Instagram](https://www.instagram.com/karthxk_z_/)
+- Visit my website at [karthikr.tech](https://karthikr.tech)
+- Connect with me on [Instagram](https://www.instagram.com/karthikr.tech/)
 - Check out my projects on [GitHub](https://github.com/TAKI-KARTHIK)
