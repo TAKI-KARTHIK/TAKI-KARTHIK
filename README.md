@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on new projects
 - 🌱 I’m currently learning
 - 💬 Ask me about Cyber Security, Programming 
-- 📄 Know more about me at [karthikr.wtf](https://karthikr.wtf)
+- 📄 Know more about me at [karthikr.tech](https://karthikr.tech)
 - 📫 How to reach me: [karthikiyer1123@gmail.com](mailto:karthikiyer1123@gmail.com)
 
 ## 🌐 Socials:
