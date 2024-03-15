@@ -1,5 +1,5 @@
 
-<img align="top" alt="Coding" width="400" src="/banner.png">
+<img align="top" alt="Coding" width="600" src="/banner.png">
 <h1 style="color: #44AEFB;">Hi I'm  👨🏻‍💻 KARTHIK R </h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
