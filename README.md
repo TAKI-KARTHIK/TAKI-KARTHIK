@@ -1,7 +1,7 @@
 
 <img align="top" alt="https://karthikr.tech" width="1024" src="/banner.png">
 <h1 style="color: #44AEFB;">Hi I'm KARTHIK R </h1>
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <br>
 
 
