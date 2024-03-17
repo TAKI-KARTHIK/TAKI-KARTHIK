@@ -1,5 +1,6 @@
 
-<img align="top" alt="https://karthikr.tech" width="1024" src="/banner.png">
+ <a href="https://karthikr.tech">
+        <img src="banner.png" alt="Clickable Image">
 <h1 style="color: #44AEFB;">Hi I'm KARTHIK R </h1>
 <!--<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 <hr>
