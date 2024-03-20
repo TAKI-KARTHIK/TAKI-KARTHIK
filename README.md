@@ -2,10 +2,7 @@
  <a href="https://karthikr.tech" target="_blank">
         <img src="banner.png" alt="Clickable Image">
 <h1 style="color: #44AEFB;">Hi I'm KARTHIK R </h1>
-<img scr = "https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" alt = "img">
-  
   <hr>
-
 ## 👨🏻‍💻 About Me
 - Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. I am a self-taught developer
 - Co-founder@ https://trogencoders.com
