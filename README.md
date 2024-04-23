@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning
 - 💬 Ask me about Cyber Security, Programming 
 - 📄 Know more about me at [karthikr.tech](https://karthikr.tech)
-- 📫 How to reach me: [karthikiyer1123@gmail.com](mailto:karthikiyer1123@gmail.com)
+- 📫 How to reach me: [karthikr.contact@gmail.com](mailto:karthikr.contact@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karthikr.tech/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)](https://discord.com/invite/ChmYRUHGjC) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:karthikr.contact@gmail.com)
