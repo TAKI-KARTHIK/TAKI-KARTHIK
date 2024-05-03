@@ -1,6 +1,6 @@
 
  <a href="https://karthikr.tech" target="_blank">
-        <img src="banner.png" alt="Clickable Image">
+        <img src="banner.gif" alt="Clickable Image" href="https://karthikr.tech">
 <h1 style="color: #44AEFB;">Hi I'm KARTHIK R </h1>
 <hr>
  
