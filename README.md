@@ -4,7 +4,7 @@
 <h1 style="color: #44AEFB;">Hi I'm KARTHIK R </h1>
 <hr>
  
-## 👨🏻‍💻 About Me
+## 🏄‍♂️ About Me
 - Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. I am a self-taught developer
 - Co-founder@ [Trogencoders](https://trogencoders.com)
 - 👯 I’m looking to collaborate on new projects
