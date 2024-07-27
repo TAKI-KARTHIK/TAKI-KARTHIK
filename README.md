@@ -8,7 +8,7 @@
 - Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. I am a self-taught developer
 - Co-founder@ [Trogencoders](https://trogencoders.com)
 - 👯 I’m looking to collaborate on new projects
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning Cyber Security 
 - 💬 Ask me about Cyber Security, Programming 
 - 📄 Know more about me at [karthikr.tech](https://karthikr.tech)
 - 📫 How to reach me: [karthikr.contact@gmail.com](mailto:karthikr.contact@gmail.com)
