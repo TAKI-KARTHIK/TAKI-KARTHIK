@@ -3,7 +3,6 @@
         <img src="banner.gif" alt="Clickable Image" href="https://karthikr.tech">
 <!--<h1 style="color: #44AEFB;">Hi I'm KARTHIK R </h1>-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I+am+Karthik" alt="Typing SVG" /></a>
-<hr>
  
 ## 🏄‍♂️ About Me
 - Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. I am a self-taught developer
