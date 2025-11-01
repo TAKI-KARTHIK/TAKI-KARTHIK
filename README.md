@@ -46,6 +46,8 @@
 
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NeonDB](https://img.shields.io/badge/Neon-DB?style=for-the-badge&color=RGB%3A%20(61%2C%20255%2C%20255))
+
 
 **Tools & Platforms:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
