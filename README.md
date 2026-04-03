@@ -76,7 +76,6 @@ I build production-grade web applications with a security-first mindset. Co-foun
 ### Certifications
 
 - **Certified Ethical Hacker (CEH v12)** — EC-Council, 2024
-- **CompTIA Security+** *(in progress)*
 
 ---
 
