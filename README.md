@@ -1,76 +1,85 @@
-<!-- Banner -->
-<a href="https://karthikr.tech" target="_blank">
-    <img src="banner.gif" alt="Karthik's Banner">
-</a>
+# Hey, I'm Karthik R
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=21&pause=1000&width=435&lines=Hey%2C+I+am+Karthik;Full-Stack+Developer;Cybersecurity+Enthusiast+(CEH)" alt="Typing SVG" />
-</a>
+**Full-Stack Developer | Security Engineer | CEH v12**
 
----
+I build production-grade web applications with a security-first mindset. Co-founder of [@TrogenCoders](https://github.com/TROGENCODERS). Currently pursuing BCA at Amrita Vishwa Vidyapeetham with a focus on software engineering and cybersecurity.
 
-## 🏄‍♂️ About Me
-
-- 💻 **Full-Stack Developer** with a focus on building scalable, secure web applications.
-- 🛡️ **Certified Ethical Hacker (CEH)** with a passion for cybersecurity and ethical hacking.
-- 🚀 Co-founder of [TrogenCoders](https://trogencoders.com) – delivering impactful digital solutions.
-- 🌱 Currently learning advanced **penetration testing** & **cloud security**.
-- 💬 Ask me about **MERN Stack**, **Cybersecurity**, and **Linux**.
-- 📄 Know more about me at [karthikr.tech](https://karthikr.tech)
-- 📫 Reach me: **[karthikr.contact@gmail.com](mailto:karthikr.contact@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikrtech/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/karthikr_tech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mail@karthikr.dev)
 
 ---
 
-## 🌐 Socials
+### About Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karthikr.tech/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)](https://discord.com/invite/ChmYRUHGjC)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:karthikr.contact@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-**Languages:**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NeonDB](https://img.shields.io/badge/Neon-DB?style=for-the-badge&color=RGB%3A%20(61%2C%20255%2C%20255))
-
-
-**Tools & Platforms:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+- Certified Ethical Hacker (CEH v12) with practical penetration testing experience
+- Focused on secure authentication, OWASP Top 10 mitigation, and defense-in-depth architecture
+- Building tools that solve real security problems — from password analysis to network reconnaissance
+- Active in CTF competitions and cybersecurity communities
 
 ---
 
-## 🚀 Featured Projects
+### Tech Stack
 
-Here are some of my notable works:
+**Languages & Frontend**
 
-- **[Weather App](https://github.com/TAKI-KARTHIK/WEATHER-APP)** – Real-time weather updates using API integration.
-- **[GitHub Profile Finder](https://github.com/TAKI-KARTHIK/GitHub-Profile-Finder)** – Search GitHub users without authentication token.
-- **[Code Editor](https://github.com/TAKI-KARTHIK/CODE-EDITOR)** – A lightweight, browser-based code editor.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+**Security & DevOps**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TAKI-KARTHIK&theme=tokyonight)
+### Featured Projects
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [**SecureAuth**](https://auth.karthikr.dev) | Privacy-first password security toolkit with real-time breach detection via HIBP k-anonymity | React, TypeScript, TailwindCSS | Completed |
+| **DevTracker** | GitHub analytics dashboard with contribution visualization and exportable reports | React, TypeScript, Recharts, GitHub API | In Development |
+| **NetScan** | Web-based network reconnaissance tool with port scanning and vulnerability assessment | React, Node.js, Express, Nmap, Docker | In Development |
 
 ---
 
-## 💰 Support Me
+### GitHub Stats
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/karthikr)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TAKI-KARTHIK&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAKI-KARTHIK&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TAKI-KARTHIK&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+---
+
+### Certifications
+
+- **Certified Ethical Hacker (CEH v12)** — EC-Council, 2024
+- **CompTIA Security+** *(in progress)*
+
+---
+
+<p align="center">
+  <i>Building software that's secure by design, not by accident.</i>
+</p>
